@@ -17,6 +17,12 @@ html {
   background-size: cover;
 
 
+   /* Set a background color that will be displayed
+      while the background image is loading */
+   background-color: #FEC0CD;
+   height: 100%;
+ }
+
 .img {
   display: inline-block;
   margin-left: auto;
